@@ -10,5 +10,7 @@ Applying this patch will result in minor graphical artifacts on the main map, af
 
 THIS PATCH IS **UNOFFICIAL**. It is not made by, nor supported by, Truimph Studios. You install it at your own risk.
 
+To install the patch, download the most recent version from [Releases](https://github.com/int19h/aow-patch/releases), open the .zip file, and run the .exe inside. You will need to point the patcher at `Ilpack.dll` inside your AoW directory. It will try to automatically determine the location of that file from registry if possible, but this may not work reliably for Steam and GoG installs. 
+
 Please see this thread on Steam Forums for AoW for more information:
 http://steamcommunity.com/app/61500/discussions/0/215439774855125498/?tscn=1494750787
