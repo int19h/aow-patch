@@ -3,7 +3,6 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="stdafx.cpp" />
-    <ClCompile Include="bdiff.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
@@ -15,8 +14,5 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="aow-patch.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Ilpack.dpl.msdelta" />
   </ItemGroup>
 </Project>

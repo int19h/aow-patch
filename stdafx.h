@@ -12,7 +12,6 @@
 #include <windowsx.h>
 #include <commdlg.h>
 #include <commctrl.h>
-#include <msdelta.h>
 
 #include <assert.h>
 #include <malloc.h>
